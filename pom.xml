@@ -61,7 +61,7 @@
 			<artifactId>neo-sdk-core-api</artifactId>
 			<version>${sap.cloud.sdk.version}</version>
 			<scope>system</scope>
-			<systemPath>${sap.cloud.sdk.path}/api/neo-sdk-core-api-${sap.cloud.sdk.version}.jar</systemPath>
+			<systemPath>${sap.cloud.sdk.path}/api/neo-sdk-core-api-2.19.4.6.jar</systemPath>
 		</dependency>
 	</dependencies>
 	
