@@ -23,8 +23,6 @@ import com.sap.security.auth.login.LoginContextFactory;
  * it will work on a local Tomcat instance as well. 
  * 
  * SAPHCP Help: https://help.hana.ondemand.com/help/frameset.htm?2eebf764c3e34900b92a6ba3e4654ccd.html
- * @author jscott
- *
  */
 @WebServlet(urlPatterns = "/logout")
 public class Logout extends HttpServlet {
