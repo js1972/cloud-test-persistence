@@ -64,4 +64,8 @@
 			<systemPath>${sap.cloud.sdk.path}/api/neo-sdk-core-api-${sap.cloud.sdk.version}.jar</systemPath>
 		</dependency>
 	</dependencies>
+	
+	<properties>
+        <sap.cloud.sdk.path>${basedir}/../neo</sap.cloud.sdk.path>
+    </properties>
 </project>
