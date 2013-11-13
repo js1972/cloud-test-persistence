@@ -74,7 +74,7 @@
 	</dependencies>
 	
 	<properties>
-        <sap.cloud.sdk.path>${basedir}/../neo</sap.cloud.sdk.path>
+        <sap.cloud.sdk.path>${basedir}/neo</sap.cloud.sdk.path>
         <sap.cloud.sdk.version>2.19.4.6</sap.cloud.sdk.version>
     </properties>
 </project>
